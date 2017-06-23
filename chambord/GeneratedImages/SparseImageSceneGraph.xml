@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SceneGraph version="1">
+  <AspectRatio>5,96879063719116</AspectRatio>
+  <BackgroundColor>000000</BackgroundColor>
+  <SceneNode>
+    <FileName>C:\Users\Neuton\Documents\Expression\Deep Zoom Composer Projects\castelo2\Source Images\_dsc0202-pano-2.tif</FileName>
+    <x>0</x>
+    <y>0</y>
+    <Width>1</Width>
+    <Height>1</Height>
+    <ZOrder>1</ZOrder>
+  </SceneNode>
+</SceneGraph>
